@@ -1,4 +1,4 @@
-const API_KEY = "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";
+const API_KEY = "gsk";
 
 const sendBtn = document.getElementById("sendBtn");
 const responseBox = document.getElementById("response");
